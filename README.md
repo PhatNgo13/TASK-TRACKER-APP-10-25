@@ -11,5 +11,5 @@ What I've learned while working on this project:
 -Filter method
 
 The biggest problem I ran into was working with FS. I couldn't get my app to post/fetch JSON data. I had an idea on how to display the JSON data with `` template but the logic of FS just didn't make sense to me. 
-Working with localStorage was much easier and I was able to complete my project within 1 day. 
+Working with localStorage was much easier and I was able to complete my project within 1 day while I had to take the majority of time trying to understan FS. 
 My next goal is to create the same App using FS. 
